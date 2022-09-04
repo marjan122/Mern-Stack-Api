@@ -1,0 +1,60 @@
+.inputstyle{
+  width: 700px;
+  background-color: white;
+  border: 3px solid white;
+border-radius: 8px;
+}
+
+.Maindesign{
+  height: 100px;
+  background-color: yellow;
+}
+
+.paracolor{
+  color: black;
+}
+
+.carousel-item{
+  display: flex;
+}
+
+.roundedimg{
+  border-radius: 200px;
+}
+.rounded{
+  display: flex;
+  justify-content: space-around;
+}
+
+.prodimg{
+display: flex;
+  justify-content: space-between;
+}
+.carddiv{
+  display: flex;
+  justify-content: space-between;
+}
+.backcolor{
+  background-color: rgb(231, 209, 80);
+}
+.backcolor2{
+  background-color: yellow;
+}
+.prodimg3{
+  display: flex;
+  justify-content: space-between;
+}
+.backcolor3{
+background-color: rgb(155, 214, 238);
+}
+.backcolor4{
+background-color: rgb(224, 222, 222);
+
+}
+
+.h1{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  color: rgb(189, 70, 189);
+}
